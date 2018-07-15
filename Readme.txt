@@ -7,8 +7,3 @@ Create a new branch is quick and simple.
 Add merge.
 git stash.
 git stash pop.
-<<<<<<< HEAD
-=======
-git remote.
-git remote -v.
->>>>>>> dev
