@@ -6,3 +6,4 @@ My stupid boss prefers SVN.
 Create a new branch is quick and simple.
 Add merge.
 this is master.
+This is dev.
