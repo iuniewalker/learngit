@@ -5,3 +5,7 @@ Git tracks changes of file.
 My stupid boss prefers SVN.
 Create a new branch is quick and simple.
 Add merge.
+git stash.
+git stash pop.
+git remote.
+git remote -v.
